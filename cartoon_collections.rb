@@ -1,5 +1,6 @@
-["Doc", "Bashful", "Dopey", "Grumpy"]
-def 
+
+[oc", "Bashful", "Dopey", "Grumpy"]
+def dwarves
   
 end
 
