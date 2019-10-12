@@ -1,6 +1,5 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
-
-def dwarves
+def 
   
 end
 
