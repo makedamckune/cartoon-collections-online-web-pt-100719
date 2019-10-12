@@ -1,5 +1,5 @@
+dwarves = 
 
-[oc", "Bashful", "Dopey", "Grumpy"]
 def dwarves
   
 end
