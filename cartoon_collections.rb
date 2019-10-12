@@ -1,6 +1,8 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
-def #
-  
+def #roll_call_dwarves
+  dwarves.map do |dwarves|
+    puts "#{dwarves}"
+  end
 end
 
 def summon_captain_planet# code an argument here
